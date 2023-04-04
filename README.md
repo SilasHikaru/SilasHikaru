@@ -6,6 +6,8 @@ Atualmente foco meus estudos em desenvolvimento web, na área de Front End
 ### Detalhes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilasHikaru&show_icons=true&theme=radical)
 
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SilasHikaru&repo=Tik-Tok-Projeto)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilasHikaru&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
